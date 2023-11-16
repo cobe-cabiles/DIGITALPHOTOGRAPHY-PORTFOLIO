@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> DIGITAL PHOTOGRAPHY PORTFOLIO </title>
+<style>
+
+
+* {
+  box-sizing: border-box;
+
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+html {
+  font-family: "tahoma";
+  color : #4e3569;
+  display:inline;
+}
+a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+
+.header {
+  color:#4e3569;
+  padding: 10px;
+
+}
+h1{  color : #4e3569;
+
+}
+ 
+.menu ul {
+  text-decoration: none;
+  color:white;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.menu li {
+  text-decoration: none;
+  color:white;
+  list-style-type: none;
+  padding: 0px;
+  margin-bottom: 10px;
+  background-color:  #ffffff;
+  color: #ffffff;
+  text-align:center;
+  font-family: tahoma;
+  letter-spacing: 0.5em;
+  border-radius: 15px;
+ 
+}
+.menusidebar li {
+  color: white;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 7px;
+  background-color:  #1d1d3b;
+  color: #ffffff;
+  text-align:center
+  font-family: tahoma;
+  letter-spacing: 0.5em;
+  border-radius: 15px;
+  
+
+}
+
+.
+menu sidebarli {
+  text-decoration-line: none;
+  color:white;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 7px;
+  background-color: #1d1d3b;
+  color: #ffffff;
+  text-align:center;
+  font-family: tahoma;
+  letter-spacing: 0.5em;
+  border-radius: 15px;
+}
+
+
+.menu li:hover {
+  background-color:#ab7da3;
+  color:pink;  
+  
+}
+
+.footer {
+  border: 10px solid white;
+  background-color:  #1d1d3b;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+ 
+
+</style>
+</head>
+<body>
+<div id="menu" class="header">
+
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrYjrHQCkNGUkzpsYTRBHWDrRwfxsLvaBxcLg0HuvOe1XEQLKdbjBlsjteuOFbhO0IwM46c0QwzaHLveJT7hODvJaG2GxSx-kxwjWPVXjTabc8_ZNZNZLu3ZH6RoMMfiOcqxLauWm1HYqu2saCw68F5xp4H2rQBqQ2szAEtDZGo3N54XFLtkfPY3jBXSE/s1600/Untitled%20design%20(1).png" width="100%" height=250px>
+  
+<ul class="menusidebar" >
+    <div  class="col-13 col-s-3 menu" > <a href="#photography" ><li> ESSAY PHOTOGRAPHY PROJECT </li> </a> </div>
+    <div  class="col-13 col-s-3 menu" > <a href="#dreamlike" ><li> DREAMLIKE PARADIGM PROJECT </li> </a></div>
+    <div  class="col-13 col-s-3 menu" > <a href="#urban" ><li> URBAN PHOTOGRAPHY PROJECT </li></a></div>
+    <div  class="col-13 col-s-3 menu" > <a href="#product" ><li>  PRODUCT PHOTOGRAPHY PROJECT </li></a></div>
+     
+  </ul>
+  </div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+</div>
+
+
+<title> DIGITAL PHOTOGRAPHY PORTFOLIO </title>
+<style>
+.divstyle1 {
+  border: 5px outset #29485c;
+  background-color: #f7f7f7;    
+  text-align: center;
+  margin: 30px }
+
+.style1{ color:violet; font-size:30px; }
+.style2{ color:#1d1d3b; font-family:"impact"; font-size:30px; text-align: center; letter-spacing: 0.5em }
+.style3{ color:#585870; font-family:"tahoma"; font-size:15px; text-align: justify; margin: 30px }
+.style4{ color:#ab7da3; font-family:"Brush Script MT"; font-size:35px; text-align: justify; margin: 30px }
+.style5{ color:#1d1d3b; font-family:"impact"; font-size:20px; text-align: center; letter-spacing: 0.5em }
+.style6 { color:#585870; font-family:"tahoma"; font-size:20px; text-align: justify; margin: 30px }
+
+.responsive1 {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.responsive2 {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.responsive3 {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+</style>
+</head>
+<body background="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF2may-X0p7TPuwvb0a67dBGPwqQXSJqspjBdyak_jiKJw7ptcjeRe9Q3dqtcT0muBH76Cm6sYd69CbNeabeEYvHr2lmhdWdDRg-Fy9s8MMHNkPZwOSA-sNLgXQYekScJTA1Yhjtj3R7z-Oy5cIetkm0p5XNCL6XnU_Pv75i2Edl0MrMuXL3AmFcUNipU/s1440/WEBPAGEEEE%20(3).png" link="#DC9199" alink="#9992BB" vlink="#DC9199">
+	<br />
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+<div style="text-align: center">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLx8ZBKcUG1MFq-eDrTjB7F9jV1lcIjRH0o2BDnSM1bIsPhMyQy7UXq5Mf6UjySaf76yLhyphenhyphenvxhK0HKUbWfnZDKIisuMqkHCNelsq7akXLjhthhz8izqNF6q40A6SE86somTsSZYLBzbWsTx5-vgMi0_1mrkdNzlMveEJ-Xw44Lp_xqOSxOJanosvtUl4s/s1046/ARTIST%20INTRODUCTION.png">
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLx8ZBKcUG1MFq-eDrTjB7F9jV1lcIjRH0o2BDnSM1bIsPhMyQy7UXq5Mf6UjySaf76yLhyphenhyphenvxhK0HKUbWfnZDKIisuMqkHCNelsq7akXLjhthhz8izqNF6q40A6SE86somTsSZYLBzbWsTx5-vgMi0_1mrkdNzlMveEJ-Xw44Lp_xqOSxOJanosvtUl4s/s1046/ARTIST%20INTRODUCTION.png" align="center" style="width:470px;height:250px;"></a>
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+
+
+<hr>
+<h1 class=style2> THE BIRTH OF A SURREALIST  </h1>
+<p class=style6> Philippines based visual artist and graphic designer who is heavily inspired by the lowbrow pop-surrealism movement in which the oddities of things transpire. His creative works also have a sense of experimentalism and modern culture touches.</p>
+
+<p class=style6> Taking up the course of Multimedia Arts at the University of Perpetual Help (Molino). Cobe has gained more experience around creative traditional and digital art, photography, 2D and 3D animation, film making, and post production editing. </p>
+
+<p class=style4> I warmly welcome you to my creative portfolio...</p>
+
+<hr>
+
+<h1 class=style2> DIGITAL PHOTOGRAPHY  </h1>
+ <p class=style6> Photography upon its prior developments really allowed a new wave of artistic expression. It became a new form of art and an instrument to capture important events in our lives. During my 2nd year in the course of Multimedia arts, I was further introduced to the world of photography and allowed me to build this sense of characteristics with my photography works through my personal taste in concepts and styles. <p>
+
+	<p class=style6> When conceptualizing a photography collection, I would often think of creative elements to put in those photos. Most of the time, I would align this style to my admired artistic movement which is pop surrealism. It would always occur to me as to what the theme of these photos will be and the message I hope they will carry.</p>
+
+	<p class=style6> Once I come up with a concept, it is about time that I start translating these ideas into actuality. Production usually takes the longest time, from resting the props, setting up the photoshoot setup, to the actual shoot itself. Production has some exciting aspects to it, like when you get to slowly see how the idea becomes something and how the tedious process slowly gets accomplished heading to the joyous point of seeing how the results would turn out to be.</p>
+
+	<p class=style6> When taking photos, I work with what I have and for this time I would often use my phone camera as I currently do not possess a dslr camera. Having to check the settings of the camera takes much consideration on how I would like the photos to look like. </p>
+
+	<p class=style6> The final process is the editing part where I get to further narrate the idea that I have. This also allows me to fix certain areas within the photo so that not a single photo gets scrapped or left unused. Other stuff like color grading and visual effects go hand in hand when it comes to generating that concept I have in mind. </p>
+    
+	<p class=style6> Being able to discover photography and getting to understand its concept was a delight for me as it allows me to discover other sides of my artistic point of view. Combining photography with traditional art builds this new form of approach in the way I make and build an art piece.</p>
+    
+    <p class=style4> I therefore present my creative works in the realm of photography… </p>
+
+<hr>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+
+<div style="text-align: center">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWN6HjygGOMqCJb0ujLbQ7akxuVTPWFMLWZuFXhKqnM7Z7LJTCVj-yXrbJRQmEIXl2S3oE6VhTyEMnGvZA5XpHWMWKUY6UTzadX9QFvT9dZ9hUuQbTiJy2bw9qMN5wdRU6SyRi9l4GxCm1wCY0KWEQzutvjkvHN2outXokt9p9DAEnH5-qKa9Cre_xmDo/s1060/ARTIST%20GALLERY.png">
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWN6HjygGOMqCJb0ujLbQ7akxuVTPWFMLWZuFXhKqnM7Z7LJTCVj-yXrbJRQmEIXl2S3oE6VhTyEMnGvZA5XpHWMWKUY6UTzadX9QFvT9dZ9hUuQbTiJy2bw9qMN5wdRU6SyRi9l4GxCm1wCY0KWEQzutvjkvHN2outXokt9p9DAEnH5-qKa9Cre_xmDo/s1060/ARTIST%20GALLERY.png" align="center" style="width:470px;height:250px;"></a>
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+<div class=divstyle1 id="photography" >
+	<h2 class=style5>ESSAY PHOTOGRAPHY PROJECT</h2>
+    <p class=style3> Mortal as human beings are, we cannot really fully comprehend the idea of death. For many, being brought to this world is a concept way easier to understand rather than what lies ahead after life. With the artistic trope of Memento Mori, the idea of inevitability of death is highlighted. </p>
+    
+    <p class=style3> Along the lines, the death being pertained to can be subjective to people. It can be a loss of one’s self, a death of a loved one, or just that feeling of being buried with thoughts of sadness. In these photographs taken, I want to give off this sentimental feeling of finding solace in times of great solitude. Featuring the great beauty of the Immaculate Conception Parish in Dasmarinas Cavite as well as the Diocesan Shrine and Parish of Our Lady of the Pillar in Imus City. </p>
+    
+    <p class=style3> This photography project was such an adventure in style and composition as it was the first photography project I had in my 2nd year photography class. It also challenged me to have this deep consideration of concepts that are aligned to the photos. </p>
+    
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+    <img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOBd-nEJVGML3H1HeyXOpcdPH_ksCNlGiCf9_4X5VikMf8BzDbsAVJIsoqS-RgwbvEctbyx60TICCfV1eVM-W6HzkJu9k-FamstGgzE4dxdFdp93-h7sT2SwyB7bYGIke9yTL-8JUmv3pKQ1n_NxRQ0PQoyZqlv5WePmHY4fN3QjsM7E05MdhuTh1LU/s698/image013.png" alt="Photography Essay Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+    <img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixX9FF_KOd3YbkouAwtFLwDQ5eEYRkQRGcZh717ARm97RvLJ54G_oELu89Ty9MAik_jLzWGOysJLlulBONYPcv5-HfGdQv5QLIMA43B2rQtNRmKHW38CHI6ojGnDJ8t9vcoOX1XZwDLt8gG0tnHpyd4sbhn04Qwz_uppWGiKtVTnHyL9OgtJwOx2qc3bE/s698/image014.png" alt="Photography Essay Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+     <img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTO4qBtXAbI-ljWT0qNN8_L3-X-ZcPTRnpTkDKv6-Gbe-CrkkUO5AwRT4HPW3BmOvkGbAIlih3Du7EyLHFwouiWPlC2xqbxYbb6KPEBoUWw2opE-I-Y8A6SnTGCPBTPSm7By1TQkYijFf-Ubsq_zSlXQcTdJ01BSXv16LQGsBP4Duz-Fhnc2IXu7-qCj0/s930/image015.png" alt="Photography Essay Project" class="responsive">
+    
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+</div>
+
+<div class=divstyle1 id="dreamlike" >
+	<h2 class=style5>DREAMLIKE PARADIGM PROJECT</h2>
+    <p class=style3> The collection of photos that you are about to witness and discover are heavily influenced by the idea of the luminance and strangeness of the galaxy in such a way where the colors used displays an array of emotions. As given the title: “Dreamlike Paradigm”, the collection has an essence or rather the ambience of a dream. This was achieved through the use of colored lights that almost resemble the colors of Aurora Borealis. </p>
+    
+    <p class=style3> Moreover, the photos taken also features a surrealistic feel through the use of materials and props that gives off a sense of having a meaning, even though it leans more on the kitsch aspect wherein it seems to make sense or might even make sense to some people, but it is specifically meant to just be an attempt to make one. It is rather the unusual combination of a modern and almost goth punk wardrobe to the naturalistic and seemingly bizarre objects such as a glowing owl, a cactus, paper cutouts of stars, and some golden curtain tassels. </p>
+    
+    <p class=style3> The atmosphere of the setup is solely dark and gloomy which is in contrast with a spherical light that gives highlight to the subject. In order to not drown the whole object of focus with the strong colors, the accent light is used, which has this plain yellowish white color. Although in some of the photos taken, specifically with the glowing owl lamp, the lights are dimmed in order to capture the details of the lamp which would be difficult to see if the lamp projects a strong light and the whole scene has a strong presence of light as well. </p>
+    
+     <p class=style3> As the photographer and creative director behind these photographs, I was very particular on how I should direct each photo whilst applying the photographic elements. It was a goal of mine to give depth and layers to the photos to be taken. It may have been quite an exhausting process for the reason that I was alone at home and had to create a setup for the photoshoot. For this situation that I am penetrated, I devised a plan to still manage to capture photos that display the use of composition and the rule of thirds. </p>
+     
+      <p class=style3> Switching from certain angles by tilting the phone camera on a certain point and having to fit the whole concept in the frame was quite a struggle but I was gladly able to do so. Being articulated with my arms and torso allowed me to lean forward and have my hands serve as a direction to lead the viewers to an area in the photo which is something that reminded me of the Fibonacci Sequence. It truly is a matter of being resourceful and flexible in times like this that could help achieve the desired results. It is an experience that I personally am glad to have and evolve from. To this, may I gladly present to you, the “Dreamlike Paradigm” photo collection… </p>
+      
+      
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrIZg9LrcMs2qnD737Xegr18P8PlmmwkpNbCCWG_Ld0n3j79qT3uJHPkMcQs_aTPs1IS5NECsM8k-DgQ72t7tCMb2pKNH0MTuTNE-D83reQrRakNaxYUFuDbUcCHA66BSIHTIy8BVupxV0UqKMJ6C6jDHEdcYUi7eiB11tHf7aGUQGpC1K-n46GH4RUnk/s930/image023.png" alt="Dreamlike Paradign Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfAwkJKGlsvE2Wqq4zYn0E8sYO-JknbScInR1OaijkzYQXkgBNht3mFz1As6U9gsSEEf9ESrAeC9hDdUe9dzeHCnu6fFOxIcRAq7cZ8wPBX2b8rnYDzEpvs0DEpeHn-adEX0PcOxcdQAAzkdz379Fjv2mcCL9S-GNTku9WXVa8aUlCvHbj7sDgV1PWdE/s930/image024.png" alt="Dreamlike Paradign Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+    <img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKkriIYqg15HCYvh8M2BbRfw0Swb0K83so0_GsR8eRDHu7g8k0z_jMVTh4aIU-KV8JNZXH4qCMTHKTLLJEUc-SUOBmQ7kN9xY2tcGJQvSerQGLlcfn0DgIQV_GQcRnqtGLS89Y_0DQSxffI54LZKYdKaWku273RJS652foQv4vn_Vx15xmYUv3pFJRmeA/s930/image025.png" alt="Dreamlike Paradign Project" class="responsive">
+   
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+</div>
+
+
+<div class=divstyle1 id="urban">
+	<h2 class=style5>URBAN PHOTOGRAPHY PROJECT</h2>
+    <p class=style3> In the breeze of the air that bounces off here and there, you can feel the presence of tranquility. All the while, the whole surrounding is just this unstoppable phase of movement where people walk around and have their own chatter of conversations that are too muffled in your ears but altogether creates this loud wave of sound. </p>
+    
+    <p class=style3> At the distance you hear ranging cars with the vibrations of the ground felt as they pass by. The horns of cars that ring through your mind, it keeps you awake and present in the current time. The surroundings just seem too exhausting but you become more so actively in motion. In the midst of all these, you still get on with your own venture. As your eyes squint, you see the lights spread into an array of colored lights. Almost dizzy but remains collected. </p>
+    
+    <p class=style3> This collection of photographs given by the title: “Not all those who Wander are Lost” gives emphasis on a distant yet chill feeling while being situated in an active place. Capturing photos that features the movement of light and candid random shots of people around the lively spirit of the mall. </p>
+    
+    <p class=style3> When it comes to the technical skills that are used in this photography session, it was deliberately and intentionally captured to have this essence of being in the pace of movement. Some may have been intentionally blurred as it gives off that raw and somehow enticing look. It may have been a challenge to go all out with taking pictures as it may disturb and make people uncomfortable in the presence of cameras, it was delicately taken to ensure that it would not be that of an awkward and violating of their own private space. </p>
+    
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+    <img class=responsive2 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1p60F1WBSlmowg-Bs2koezhOY-oBhZKYBXvq80b74G409uGtUX1QEu8d1CSy5s-FfO0IPZB6JDcRNycmF70-UTlF3H3gHMZdCm-lYsaCTkpBPWlSmhabd5De2ZjggPGPQcLlG967wqSyNUHysnbt1yQP7wg7587f1p8y0Zk9vrnEy5VZi-irh7qQA0g/s698/image033.png" alt="Urban Photography Project" class="responsive">
+    
+    <p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+    
+    <img class=responsive2 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCDU0dgISnLXW5GUc9MlvI0T4O2Xh_m9svSh7U-Q9RdppE965YlI9rE-wnDlNVBIGJlL6toSAOu_Ml3YFU25QsZCCET9U_5SjuiQA8H_KbVulpuGBCwvr_qKDALvrZOJZZQO6CHewkcGKN9IucIuX6VYNyur4TBcJ502v6TUDeZbYo61jXtW5fhWWmITU/s930/image034.png" alt="Urban Photography Project" class="responsive">
+    
+    <p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+    
+    <img class=responsive2 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghJthWl5zZfDMaipPPCyizQ_Fz6BvmRbNMaf21i5LFXDXQ2lJja2pMgADi6HHkJIsm_2WZTuUswtHf8BHP5C77gsdmqR_JjoCHi2ciA37wUU6j3O4z7-lTL6xBmY2CyeTKIMhDQbZjPRf98p1cnToiuDBPhIg2KDCU4kJ9660VfRjxHOA8gLkgiNyWa1M/s698/image035.png" alt="Urban Photography Project" class="responsive">
+  
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+</div>
+
+
+<div class=divstyle1 id="product">
+	<h2 class=style5>PRODUCT PHOTOGRAPHY PROJECT</h2>
+    <p class=style3> The mist and fragrance that just feels naturally beautiful. This photoshoot featured an actual existing perfume that just fits the earthly theme. Along with that highlight product is how it would be photographed that would showcase the vibe of the scent that this fragrance has. As the creative director for this project, I went with a surrealist touch to the photoshoot concept, allowing more oddities that would simply have its unique identity. </p>
+    
+    <p class=style3> The concept that I went for is this scientific insect setup with organic materials that all together sings harmoniously. I had a lot of fun with the process of making the props that would go along with the whole photoshoot setup. It was also a delight to me how the shoot was executed the way I envisioned it to be. </p>
+    
+    <p class=style3> Together with my groupmates, I did get to appreciate their own takes on how the setup and product feels authentic to their perspective. Having to also apply the learnings that I have gained to that point in the subject feels like a path leading to far more creative photoshoot concepts that I could personally do. </p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive3 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ipcnUVX3M4TmWQKvPa6QMgHQ2aguh78te7ZxH7GN1MNveNwoi3GqzEkQg9B5WK3X0T33GXLElf2yDW0aFKnAR13AeLpmEsmuoW0XNfsbbf1q5Bl3e6XlMP-iTmphhBo9-6_gAouZSL7tJ6VDElUUtv2G7oNmsQdhpyYL_v3OrPQTei7kyHdghDWy1u0/s930/image038.png" alt="Product Photography Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive3 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqfBqNHqCkhwo8alsCjXI_FvMC9TEqEcf-tA08b7o5MQrKMY0qQydDqFxyf_LeNZUozNY1DZhUZs-3Zql3VNihIhnS7_WcfBZdgk05AyvqgJ4kVaDx8KP0ef4gl_BZxW2vGBC_cOM2npt6G3-_D0wkUeJMwQ22b4q2diyEW44cG2cy3w1QAVbd9CLgcL8/s698/image039.png" alt="Product Photography Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive3 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmXU708JRkbL3KR-zwm4QSEkRmu9JDEDS_BgZAehyphenhyphenQFOG3f9hlx_qFYm4KBKWW6DXT0NaMXrI3QFDBPAQmd7xkua5-t-7pVv-DZJZeBaLrLwJWXb60ibPdBX95KhRNZnOH6SppRPWuKUyRioCH7MiRvFEMWopv7LUW6P2PliUddtsoJ8KbRAZxPaefhUQ/s698/image040.png" alt="Product Photography Project" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+</div>
+
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+<div id="menu" class="header">
+
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuxlCWKSwZOzw-c9R7HPsgX_OvK0cfgFCU64YLQLUEAercYEHKXl-SXRw86Ddrh_PVsmg1nZEBptm7DnmS7B4aFsfH65bxgj-ZkOLzpOc9pXsWwOije33wSyDWHAP4QcJhJooQtSmRqPOGbsgmF8Cniyh606tvjklybrV0SDYN8JXch-vEpY_CRCywAKs/s1600/Untitled%20design%20(2).png" width="100%" height=250px>
+
+</body>
+</html>
+
+
